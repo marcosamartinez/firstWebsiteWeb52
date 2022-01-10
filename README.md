@@ -1,5 +1,6 @@
-# firstWebsiteWeb52
-a practice project for web52
-
-
-This is a example repo for web52 to practice using github
+1. Git is a platform that allows a person to work closely with a group of people. The difference between Git and Github is the cloud, where all the information or code is stored for everyone in the group to utilize.
+2.Branches are used to create little capsules of change. Where it doesn't affect the other code.
+3. A pull request is notation of a change on the website.
+4. The feature used for this would be cd
+5.Git fetch, merge, pull all have different uses. Git fetch is used when you want to grab all the inforation that is related to a branch. That even includes the information from other branches that have history with the one you want. Git merge does almost the same as Git fetch but combines the branches together making them one single source of history. Now Git pull saves all the changes that are being done to the branch and sends it to the Github.
+6. A merge conflict happens when you try to save a file that has been deleted, another example would be writing the same line of code in different branches. The way you stop merge conflicts from happening is by making sure to chose one either you save the file or you delete it. 
